@@ -1,4 +1,4 @@
-# -GraphGen-
+# GraphGen
 Graph and Tree Generation for Java-Based Algorithms
 
 This tool is used to faciliate auto-generating graphs that you can traverse for common search algorithms and tree/graph based algorithms. 
