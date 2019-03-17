@@ -3,6 +3,14 @@ Graph and Tree Generation for Java-Based Algorithms
 
 This tool is used to faciliate auto-generating graphs that you can traverse for common search algorithms and tree/graph based algorithms. 
 
+### Usage: 
+
+Generate flat file following the below structure. 
+
+```
+Graph graph = generateSimpleGraph("/file/path/here")
+```
+
 Read in file in following structure:
 
 ```
