@@ -15,3 +15,8 @@ Read in file in following structure:
 The generator will in turn create a traversable `Graph` structure that formulates the following:
 
 ![Graph](https://i.imgur.com/OQEc7QW.png)
+
+### Lexicon
+
+`Graph`: Contains `Node` type that contains any type of metadata
+`Node`: Simple data object that holds metadata. You can set a primary key on a particular node that can be used for searching against, etc. 
